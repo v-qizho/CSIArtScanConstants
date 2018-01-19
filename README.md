@@ -1,0 +1,2 @@
+# CSIArtScanConstants
+tool
